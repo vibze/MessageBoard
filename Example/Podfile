@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MessageBoard_Tests' do
+  pod 'MessageBoard', :path => '../'
+  
+  
+end
